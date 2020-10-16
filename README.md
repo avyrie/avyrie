@@ -7,7 +7,7 @@ Fun fact: I have 1 cat and 2 snakes! I have such a love for reptiles and my two 
 ### Software Knowledge:
 HTML5, CSS3, JavaScript, Node.js, React.js, MongoDB, Mongoose, Python, Django, Bootstrap, Express.js, PSQL
 
-### Portfolio - https://avyrie.github.io/portfolio/
+### Portfolio - https://avyrie.github.io/portfoliov2/
 ### LinkedIn - https://www.linkedin.com/in/allison-pittman/
 
 <!--
