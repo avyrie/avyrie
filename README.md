@@ -2,7 +2,9 @@
 (Pronouns: She/Her)
 
 I am a junior software developer from South of DC living in the Denver Metro Area. 
+
 I am currently looking for a fitting position in the industry as well as fellow collaborators. 
+
 I hold a BS in Biology from GMU and graduated from General Assembly's Software Engineering Immersive Bootcamp.
 
 ### Software Knowledge:
