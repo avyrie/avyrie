@@ -1,11 +1,12 @@
 # Hi there, I'm Ally!
 (Pronouns: She/Her)
 
-I am a junior software developer from South of DC living in the Denver Metro Area. I am currently looking for a fitting position in the industry as well as fellow collaborators. 
-Fun fact: I have 1 cat and 2 snakes! I have such a love for reptiles and my two ball pythons come with me to expos to help decrease the stigma surrounding snakes :)
+I am a junior software developer from South of DC living in the Denver Metro Area. 
+I am currently looking for a fitting position in the industry as well as fellow collaborators. 
+I hold a BS in Biology from GMU and graduated from General Assembly's Software Engineering Immersive Bootcamp.
 
 ### Software Knowledge:
-HTML5, CSS3, JavaScript, Node.js, React.js, MongoDB, Mongoose, Python, Django, Bootstrap, Express.js, PSQL
+HTML5, CSS3, JavaScript, Node.js, Express.js, React.js, MongoDB, Mongoose, Python, Django, Bootstrap, Flexbox, PSQL
 
 ### Portfolio - https://avyrie.github.io/portfoliov2/
 ### LinkedIn - https://www.linkedin.com/in/allison-pittman/
