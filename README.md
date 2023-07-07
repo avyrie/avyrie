@@ -1,13 +1,13 @@
-# Hi there, I'm Ally!
+# Hi there, I'm Ally
 (Pronouns: She/Her)
 
-I am a junior software developer from South of DC living in the Denver Metro Area. 
+Software developer from South of DC living in the Denver Metro Area. 
 
 I am currently looking for a fitting position in the industry where I can continue to grow and learn a well as contribute. 
 
-I am open to collaborations!
+Open to collaborations!
 
-I hold a BS in Biology from GMU and graduated from General Assembly's Software Engineering Immersive Bootcamp.
+BS in Biology from George Mason University and graduated from General Assembly's Software Engineering Immersive Program.
 
 ### Software Knowledge:
 HTML5, CSS3, JavaScript, Node.js, Express.js, React.js, MongoDB, Mongoose, Python, Django, Bootstrap, Flexbox, PSQL
