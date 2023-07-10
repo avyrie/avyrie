@@ -9,6 +9,7 @@ Open to collaborations!
 BS in Biology from George Mason University and graduated from General Assembly's Software Engineering Immersive Program.
 
 ### Software Knowledge:
+<br/>
 HTML5, CSS3, JavaScript, Node.js, Express.js, React.js, MongoDB, Mongoose, Python, Django, Bootstrap, Flexbox, PSQL
 
 ### Portfolio - https://avyrie.github.io/portfoliov2/
