@@ -9,18 +9,17 @@ Open to collaborations!
 BS in Biology from George Mason University and graduated from General Assembly's Software Engineering Immersive Program.
 
 ### Software Knowledge:
-<br/>
 HTML5, CSS3, JavaScript, Node.js, Express.js, React.js, MongoDB, Mongoose, Python, Django, Bootstrap, Flexbox, PSQL
-
+</br>
 ### Portfolio - https://avyrie.github.io/portfoliov2/
 ### LinkedIn - https://www.linkedin.com/in/allison-pittman/
-
+<br/>
 
 Big stand-up comedy and pun fan. Software joke of the day is:
 <!-- Markdown -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
+</br>
 
 Everyone loves music. Here's my song of the moment:
 
