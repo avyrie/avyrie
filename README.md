@@ -2,7 +2,8 @@
 (Pronouns: She/Her)
 
 Software developer from South of DC living in the Denver Metro Area. 
-I am currently looking for a fitting position in the industry where I can continue to grow and learn a well as contribute. 
+I am currently looking for a fitting position in the industry where I can continue to grow and contribute my skills. 
+</br>
 Open to collaborations!
 BS in Biology from George Mason University and graduated from General Assembly's Software Engineering Immersive Program.
 
