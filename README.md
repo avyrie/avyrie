@@ -9,7 +9,7 @@ Open to collaborations!
 BS in Biology from George Mason University and graduated from General Assembly's Software Engineering Immersive Program.
 
 ### Software Knowledge:
-HTML5, CSS3, JavaScript, Node.js, Express.js, React.js, MongoDB, Mongoose, Python, Django, Bootstrap, Flexbox, PSQL
+HTML5, CSS3, JavaScript, TypeScript, Node.js, Express.js, React.js, PHP, MongoDB, Mongoose, Python, Django, Bootstrap, Flexbox, PSQL, nom, yarn, Git, GitHub, Visual Studio, Visual Studio Code, Azure DevOps, SquareSpace
 </br>
 ### Portfolio - https://avyrie.github.io/portfoliov2/
 ### LinkedIn - https://www.linkedin.com/in/allison-pittman/
